@@ -1,0 +1,24 @@
+{
+  "name": "mongoose_skeleton",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "author": "Ryoma Kobayashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryokoba689/my-fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/Ryokoba689/my-fitness-tracker",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
