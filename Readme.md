@@ -1,5 +1,5 @@
 
-# tech-blog
+# Fitness tracker
 
 ## User Story
 
