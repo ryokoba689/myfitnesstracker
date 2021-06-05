@@ -9,6 +9,11 @@ NPM i to install dependencies. As we have listed in the package Json.
 Open up mongod server.
 NPM start
 
+
+## example
+![alt text](https://raw.githubusercontent.com/ryokoba689/myfitnesstracker/main/fitness.png)
+
+
 ## Technologies used
 
 Nodemon, express, mongoose, morgan.
